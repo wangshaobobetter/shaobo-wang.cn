@@ -24,13 +24,19 @@ subtitle = ""
   icon = "code"
   icon_pack = "fas"
   name = "C/C++"
-  description = "80%"  
+  description = "Mastering C/C++ programming language, mastering the tailoring and customization of C code of convex optimization interior point algorithm, and being able to design and develop aircraft dynamics and control simulation system based on C environment."  
   
 [[feature]]
   icon = "ubuntu"
   icon_pack = "fab"
   name = "Linux"
-  description = "10%"
+  description = "Familiar with Linux Ubuntu, VIM GIT and other program development tools, master the writing of makefile script."
+  
+[[feature]]
+  icon = "drafting-compass"
+  icon_pack = "fas"
+  name = "FEM"
+  description = "Proficient in CATIA, Auto CAD mechanical drawing and finite element analysis software, e.g. Patran&Nastran, ANSYS."  
 
 # Uncomment to use emoji icons.
 # [[feature]]
