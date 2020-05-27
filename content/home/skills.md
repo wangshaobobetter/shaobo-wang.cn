@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "matlab"
+  name = "MATLAB"
   description = "90%"
   
 [[feature]]
@@ -27,7 +27,7 @@ subtitle = ""
   description = "80%"  
   
 [[feature]]
-  icon = "linux"
+  icon = "fa-ubuntu"
   icon_pack = "fas"
   name = "Linux"
   description = "10%"
