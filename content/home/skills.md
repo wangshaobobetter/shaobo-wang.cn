@@ -15,10 +15,10 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "analytics"
-  icon_pack = "fab"
+  icon = "function"
+  icon_pack = "fas"
   name = "MATLAB"
-  description = "90%"
+  description = "Proficient in MATLAB programming, Simulink control system design and other toolbox, able to use a variety of optimization algorithms including eCos, CVX, ipopt, snopt, gpops2, yalmip and tool library."
   
 [[feature]]
   icon = "code"
