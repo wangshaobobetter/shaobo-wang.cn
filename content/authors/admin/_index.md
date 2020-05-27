@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Huan Jiang
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
-
+role: Ph.D Student of Aerospace Science and Technology
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Beijing Institute of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Flight System Dynamics
+- Computational Optimization
+- Flight Control and Guidance
 
 education:
   courses:
