@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "function"
+  icon = "atom"
   icon_pack = "fas"
   name = "MATLAB"
   description = "Proficient in MATLAB programming, Simulink control system design and other toolbox, able to use a variety of optimization algorithms including eCos, CVX, ipopt, snopt, gpops2, yalmip and tool library."
