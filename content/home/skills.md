@@ -27,7 +27,7 @@ subtitle = ""
   description = "80%"  
   
 [[feature]]
-  icon = "fa-ubuntu"
+  icon = "ubuntu"
   icon_pack = "fab"
   name = "Linux"
   description = "10%"
