@@ -47,9 +47,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-  - icon: zhihu
+- icon: weibo
   icon_pack: fab
-  link: https://zhihu.com/people/jianghaven
+  link: https://weibo.com/askyspace
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
