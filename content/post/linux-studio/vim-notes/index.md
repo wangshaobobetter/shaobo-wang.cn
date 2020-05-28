@@ -1,6 +1,6 @@
 ---
-title: "My Vim Learning Notes"
-subtitle: '好记性不如烂笔头'
+title: My Vim Learning Notes
+subtitle: 好记性不如烂笔头
 author: 
 - Huan
 
@@ -10,7 +10,7 @@ tags:
 categories:
 - Post
 date: "2016-04-20T00:00:00Z"
-lastmod: "2019-04-17T00:00:00Z"
+lastMod: "2019-04-17T00:00:00Z"
 featured:false
 draft:false
 # Featured image
