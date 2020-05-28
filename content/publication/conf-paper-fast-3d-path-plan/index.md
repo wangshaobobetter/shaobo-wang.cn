@@ -1,7 +1,7 @@
 ---
 title: "Fast Three-Dimensional Path Planning with Obstacle Avoidance Constraints"
 authors:
-- Huan Jiang
+- admin
 - Xinfu Liu
 date: "2019-01-01T00:00:00Z"
 doi: ""
