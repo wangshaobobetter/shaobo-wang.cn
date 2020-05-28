@@ -71,9 +71,6 @@ user_groups:
 - Researchers
 - Visitors
 
-  # Background image.
-background:
-   - image: "static/img/background.jpg"  # Name of image in `static/img/`.
 
 ---
 
