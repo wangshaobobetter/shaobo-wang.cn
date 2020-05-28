@@ -1,5 +1,5 @@
 ---
-title: Fast Three-Dimensional Path Planning with Obstacle Avoidance Constraints
+title: Path Planning with Obstacle Avoidance Constraints
 summary: Path Planning Using Convex Optimization
 tags:
 - Path Planning
@@ -37,7 +37,3 @@ The contribution of this paper is to convexify such a nonconvex and highly nonli
 The convexification is novel in that almost no nonlinearity in the original problem is lost. 
 This is very helpful for rapid convergence of the successive SOCP used to get the optimal solution of the original problem. 
 Numerical examples are provided to show the validity and high efficiency of the proposed method for potential real-time path planning.
-
-
-
-
