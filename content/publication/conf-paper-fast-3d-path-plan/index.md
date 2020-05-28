@@ -16,8 +16,8 @@ publishDate: "2019-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *AIAA Scitech 2019 Forum*
-publication_short: In *AIAA Scitech 2019 Forum*
+publication: In AIAA Scitech 2019 Forum
+publication_short: In AIAAScitechForum2019
 
 abstract: This paper addresses the three-dimensional path planning problem of unmanned aerial vehicles with obstacle avoidance constraints and an objective of minimizing the time of flight. Solving this optimal control problem in real time for autonomous flight is very challenging. The contribution of this paper is to convexify such a nonconvex and highly nonlinear problem into the framework of second-order cone programming (SOCP), which is a subclass of convex optimization and can be very efficiently solved by existing interior point methods. The convexification is novel in that almost no nonlinearity in the original problem is lost. This is very helpful for rapid convergence of the successive SOCP used to get the optimal solution of the original problem. Numerical examples are provided to show the validity and high efficiency of the proposed method for potential real-time path planning.
 
