@@ -21,7 +21,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Baidu Image**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Baidu Image**](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1590652411084&di=cb287175234190ba97c3d4f8691bc451&imgtype=0&src=http%3A%2F%2Ffile.elecfans.com%2Fweb1%2FM00%2F68%2F0C%2Fo4YBAFvAYSCAYe1wAAEhcfNSepw467.png)'
   focal_point: ""
   preview_only: false
 
