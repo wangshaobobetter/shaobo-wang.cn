@@ -1,7 +1,7 @@
 ---
-title: My Vim Learning Notes
-subtitle: 好记性不如烂笔头
-author: 
+title: 'My Vim Learning Notes'
+subtitle: '好记性不如烂笔头'
+authors: 
 - Huan
 
 tags:
