@@ -1,6 +1,7 @@
 ---
 title: 'My Vim Learning Notes'
 subtitle: 'KEEP IT DOWN BEFORE YOU FORGOT IT!'
+summary: 'Learn how to use vim'
 authors: 
 - Huan
 
