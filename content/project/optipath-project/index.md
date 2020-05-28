@@ -4,6 +4,7 @@ summary: Path Planning Using Convex Optimization
 tags:
 - Path Planning
 - Convex Optimization
+- Algorithm
 date: "2020-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
