@@ -1,6 +1,6 @@
 ---
 title: 'My Vim Learning Notes'
-subtitle: '好记性不如烂笔头'
+subtitle: 'KEEP IT DOWN BEFORE YOU FORGOT IT!'
 authors: 
 - Huan
 
