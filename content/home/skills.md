@@ -15,13 +15,13 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "atom"
-  icon_pack = "fas"
-  name = "Control System Dynamics"
+  icon = "autoprefixer"
+  icon_pack = "fab"
+  name = "Automation"
   description = "Proficient in MATLAB programming, Simulink control system design and other toolbox, able to use a variety of optimization algorithms including eCos, CVX, ipopt, snopt, gpops2, yalmip and tool library."
   
 [[feature]]
-  icon = "atom"
+  icon = "chart-line"
   icon_pack = "fas"
   name = "Computational Optimization"
   description = "Proficient in MATLAB programming, Simulink control system design and other toolbox, able to use a variety of optimization algorithms including eCos, CVX, ipopt, snopt, gpops2, yalmip and tool library."
@@ -33,22 +33,22 @@ subtitle = ""
   description = "Mastering C/C++ programming language, mastering the tailoring and customization of C code of convex optimization interior point algorithm, and being able to design and develop aircraft dynamics and control simulation system based on C environment."  
   
 [[feature]]
-  icon = "ubuntu"
-  icon_pack = "fab"
-  name = "Linux"
-  description = "Familiar with Linux Ubuntu, VIM GIT and other program development tools, master the writing of makefile script."
+  icon = "desktop"
+  icon_pack = "fas"
+  name = "Development"
+  description = "Interested in computer and web development technology."
   
 [[feature]]
-  icon = "drafting-compass"
+  icon = "cogs"
   icon_pack = "fas"
-  name = "FEM"
+  name = "Mechanics"
   description = "Proficient in CATIA, Auto CAD mechanical drawing and finite element analysis software, e.g. Patran&Nastran, ANSYS."  
 
 [[feature]]
   icon = "tools"
   icon_pack = "fas"
   name = "Tools"
-  description = "Linux,VScode,Git,Vim"  
+  description = "Familiar with Linux Ubuntu, Vim Git and other program development tools,master the usage of makefile script."  
 
 # Uncomment to use emoji icons.
 # [[feature]]
