@@ -44,7 +44,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [****]()'
+caption: 'Image credit: [“蜂群”****](https://p3.pstatp.com/large/17ee0001cd2b53cd0d58)'
   focal_point: ""
   preview_only: false
 
