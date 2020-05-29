@@ -19,10 +19,10 @@ publication_types: ["2"]
 publication: "Aerospace Science and Technology, 1*(1)"
 publication_short: "AST"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract:In the existing closed-loop cooperative guidance approaches for salvo attack of multiple missiles, the multiple constraints and time-variant velocity basically cannot be effectively considered. Therefore, two closed-loop cooperative guidance methods are developed in this paper, by employing the efficient convex optimization technique and receding horizon control (RHC) strategy. During each guidance cycle of RHC, the system coordination target is updated and then broadcasted to each missile as a constraint. Subsequently, the convex optimization technique is utilized to solve the multi-constraint optimal proportional guidance problem of each missile online to achieve the consensus on time-to-go among missiles. Simulation results show that for three cases with different conditions of velocity, the cooperative simultaneous attack under multiple constraints can be effectively carried out using each of the two proposed cooperative guidance laws, which verify their effectiveness and feasibility.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Cooperative guidance with multiple constraints using convex optimization.
 
 tags:
 - Cooperative Guidance
@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf:https://www.sciencedirect.com/science/article/abs/pii/S127096381830213X
 url_code: ''
 url_dataset: ''
 url_poster: ''
