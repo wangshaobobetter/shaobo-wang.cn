@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "Aerospace Science and Technology, 1*(1)"
 publication_short: "AST"
 
-abstract:
+abstract:In the existing closed-loop cooperative guidance approaches for salvo attack of multiple missiles, the multiple constraints and time-variant velocity basically cannot be effectively considered. Therefore, two closed-loop cooperative guidance methods are developed in this paper, by employing the efficient convex optimization technique and receding horizon control (RHC) strategy. During each guidance cycle of RHC, the system coordination target is updated and then broadcasted to each missile as a constraint. Subsequently, the convex optimization technique is utilized to solve the multi-constraint optimal proportional guidance problem of each missile online to achieve the consensus on time-to-go among missiles. Simulation results show that for three cases with different conditions of velocity, the cooperative simultaneous attack under multiple constraints can be effectively carried out using each of the two proposed cooperative guidance laws, which verify their effectiveness and feasibility.
 
 # Summary. An optional shortened abstract.
 summary: Cooperative guidance with multiple constraints using convex optimization.
