@@ -4,7 +4,7 @@ authors:
 - admin
 - Fenfen Xiong
 date: "2015-09-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.ast.2018.06.001"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf:https://www.sciencedirect.com/science/article/abs/pii/S127096381830213X
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S127096381830213X
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -43,7 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Hji**](https://hji.today)'
   focal_point: ""
   preview_only: false
 
