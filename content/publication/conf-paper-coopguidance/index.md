@@ -31,8 +31,8 @@ featured: true
 
 links:
 - name: Custom Link
-  url: 
-url_pdf: 
+  url: http://cpfd.cnki.com.cn/Article/CPFDTOTAL-KZLL201707004235.htm
+url_pdf: http://cpfd.cnki.com.cn/Article/CPFDTOTAL-KZLL201707004235.htm
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
