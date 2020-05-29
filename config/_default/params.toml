@@ -9,13 +9,13 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-# theme = "minimal"
+theme = "minimal"
 
 # Hji Design
 
 # Color theme.
 # Choose from `default`,`ocean`,`forest`,dark`,`apogee`,`1950s`,`coffee`,`cupcake`.
-color_theme = "forest"
+color_theme = "ocean"
 # Diplay a logo in navigation bar rather than title (optional).
 # To enable, place an image in `static/img/` and reference its filename below. To disable, set
 # the value to "".
@@ -31,7 +31,7 @@ day_night = true
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
 #   Choose from `default`,`classic`,or`playfair`.
-font = ""
+font = "default"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
