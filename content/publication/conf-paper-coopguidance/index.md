@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: In *36th Chinese Control Conference*
 publication_short: In *CCC*
 
-abstract:
+abstract: 本文提出了一种基于凸优化算法的多导弹协同制导方法。首先,给出以弹目距离为自变量的制导问题的多约束最优控制模型;其次,以弹目距离坐标下的剩余时间表达为基础,提出一种带有攻击时间和落角等多约束条件下的快速制导律优化算法;最后,给出一种基于"领弹-从弹"架构的协同凸优化制导方法。相关的数值仿真验证了算法的有效性。
 
 # Summary. An optional shortened abstract.
 summary: Cooperative Guidance with Constrained Impact Using Convex Optimization.
@@ -44,7 +44,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-caption: 'Image credit: [**蜂群**](https://p3.pstatp.com/large/17ee0001cd2b53cd0d58)'
+caption: 'Image credit: [**Swarm Strategy**](https://p3.pstatp.com/large/17ee0001cd2b53cd0d58)'
   focal_point: ""
   preview_only: false
 
