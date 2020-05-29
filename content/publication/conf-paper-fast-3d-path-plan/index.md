@@ -1,7 +1,7 @@
 ---
 title: "Fast Three-Dimensional Path Planning with Obstacle Avoidance Constraints"
 authors:
-- admin
+- Huan Jiang
 - Xinfu Liu
 date: "2019-01-01T00:00:00Z"
 doi: ""
@@ -31,9 +31,9 @@ featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
+  url: http://arc.aiaa.org/doi/abs/10.2514/6.2019-0357 
 url_pdf: https://arc.aiaa.org/doi/abs/10.2514/6.2019-0357 
-url_code: '#'
+url_code: 'https://github.com/Algorhi'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
