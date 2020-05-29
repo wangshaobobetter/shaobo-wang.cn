@@ -16,8 +16,8 @@ publishDate: "2019-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In AIAA Scitech 2019 Forum
-publication_short: In AIAAScitechForum2019
+publication: In *36th Chinese Control Conference*
+publication_short: In *CCC*
 
 abstract: 本文提出了一种基于凸优化算法的多导弹协同制导方法。首先,给出以弹目距离为自变量的制导问题的多约束最优控制模型;其次,以弹目距离坐标下的剩余时间表达为基础,提出一种带有攻击时间和落角等多约束条件下的快速制导律优化算法;最后,给出一种基于"领弹-从弹"架构的协同凸优化制导方法。相关的数值仿真验证了算法的有效性。
 
@@ -31,8 +31,8 @@ featured: true
 
 links:
 - name: Custom Link
-  url: http://arc.aiaa.org/doi/abs/10.2514/6.2019-0357 
-url_pdf: https://arc.aiaa.org/doi/abs/10.2514/6.2019-0357 
+  url: http://cpfd.cnki.com.cn/Article/CPFDTOTAL-KZLL201707004235.htm 
+url_pdf: http://cpfd.cnki.com.cn/Article/CPFDTOTAL-KZLL201707004235.htm 
 url_code: 'https://github.com/Algorhi'
 url_dataset: '#'
 url_poster: '#'
