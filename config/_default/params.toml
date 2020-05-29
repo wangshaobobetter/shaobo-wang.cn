@@ -15,7 +15,7 @@ theme = "minimal"
 
 # Color theme.
 # Choose from `default`,`ocean`,`forest`,dark`,`apogee`,`1950s`,`coffee`,`cupcake`.
-color_theme = "ocean"
+#  color_theme = "ocean"
 # Diplay a logo in navigation bar rather than title (optional).
 # To enable, place an image in `static/img/` and reference its filename below. To disable, set
 # the value to "".
