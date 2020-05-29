@@ -17,13 +17,19 @@ subtitle = ""
 [[feature]]
   icon = "atom"
   icon_pack = "fas"
-  name = "MATLAB"
+  name = "Control System Dynamics"
   description = "Proficient in MATLAB programming, Simulink control system design and other toolbox, able to use a variety of optimization algorithms including eCos, CVX, ipopt, snopt, gpops2, yalmip and tool library."
   
 [[feature]]
+  icon = "atom"
+  icon_pack = "fas"
+  name = "Computational Optimization"
+  description = "Proficient in MATLAB programming, Simulink control system design and other toolbox, able to use a variety of optimization algorithms including eCos, CVX, ipopt, snopt, gpops2, yalmip and tool library."
+
+[[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "C/C++"
+  name = "Programming"
   description = "Mastering C/C++ programming language, mastering the tailoring and customization of C code of convex optimization interior point algorithm, and being able to design and develop aircraft dynamics and control simulation system based on C environment."  
   
 [[feature]]
@@ -37,6 +43,12 @@ subtitle = ""
   icon_pack = "fas"
   name = "FEM"
   description = "Proficient in CATIA, Auto CAD mechanical drawing and finite element analysis software, e.g. Patran&Nastran, ANSYS."  
+
+[[feature]]
+  icon = "tools"
+  icon_pack = "fas"
+  name = "Tools"
+  description = "Linux,VScode,Git,Vim"  
 
 # Uncomment to use emoji icons.
 # [[feature]]
