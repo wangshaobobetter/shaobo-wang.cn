@@ -15,7 +15,7 @@ theme = "minimal"
 
 # Color theme.
 # Choose from `default`,`ocean`,`forest`,dark`,`apogee`,`1950s`,`coffee`,`cupcake`.
-color_theme = "ocean"
+# color_theme = "ocean"
 # Diplay a logo in navigation bar rather than title (optional).
 # To enable, place an image in `static/img/` and reference its filename below. To disable, set
 # the value to "".
@@ -167,7 +167,7 @@ sharing = true
 
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
-copyright_license = {enable = false, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
+copyright_license = {enable = ture, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
 
 # Link authors to their profile page? (true/false)
 link_authors = true
