@@ -31,9 +31,9 @@ featured: true
 
 links:
 - name: Custom Link
-  url: http://cpfd.cnki.com.cn/Article/CPFDTOTAL-KZLL201707004235.htm
-url_pdf: http://cpfd.cnki.com.cn/Article/CPFDTOTAL-KZLL201707004235.htm
-url_code: '#'
+  url: http://arc.aiaa.org/doi/abs/10.2514/6.2019-0357 
+url_pdf: https://arc.aiaa.org/doi/abs/10.2514/6.2019-0357 
+url_code: 'https://github.com/Algorhi'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
@@ -44,7 +44,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-caption: 'Image credit: [**Swarm Strategy**](https://p3.pstatp.com/large/17ee0001cd2b53cd0d58)'
+  caption: 'Image credit: [Huan](https://askyspace.com)'
   focal_point: ""
   preview_only: false
 
@@ -54,7 +54,7 @@ caption: 'Image credit: [**Swarm Strategy**](https://p3.pstatp.com/large/17ee000
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- guidance-project
+- optipath-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
