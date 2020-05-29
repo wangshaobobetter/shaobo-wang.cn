@@ -90,7 +90,7 @@ address = {street = "5 South Zhongguancun", city = "Beijing", region = "Haidian"
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "39.961094", longitude = "116.318949"}
+coordinates = {latitude = "39.961131", longitude = "116.319201"}
 
 # Directions for visitors to locate you.
 directions = "Aerospace Building"
@@ -107,8 +107,8 @@ appointment_url = "https://calendly.com"
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   {icon = "weibo", icon_pack = "fab", name = "Weibo Follow Me", link = "https://weibo.com/askyspace"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  {icon = "wechat", icon_pack = "fas", name = "Discuss on Wechat", link = "https://discourse.gohugo.io"},
+  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+  {icon = "wexin", icon_pack = "fab", name = "Chat on Wechat", link = "https://web.wechat.com"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
