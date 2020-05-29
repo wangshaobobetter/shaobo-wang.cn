@@ -11,6 +11,18 @@
 #   Browse user installed themes in `data/themes/`
 theme = "minimal"
 
+# Hji Design
+# Color theme.
+# Choose from `default`,`ocean`,`forest`,dark`,`apogee`,`1950s`,`coffee`,`cupcake`.
+color_theme = "forest"
+# Diplay a logo in navigation bar rather than title (optional).
+# To enable, place an image in `static/img/` and reference its filename below. To disable, set
+# the value to "".
+logo = ""
+
+
+# Hji Design
+
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -18,6 +30,7 @@ day_night = true
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
+#   Choose from `default`,`classic`,or`playfair`.
 font = ""
 
 # Choose a font size.
