@@ -1,13 +1,13 @@
 ---
 title: "Cooperative Guidance with Constrained v Impact Using Convex Optimization"
-authors: 
+authors:
 - Huan Jiang
 - Fenfen Xiong
-date: "2017-07-01T00:00:00Z"
-doi: " "
+date: "2017-01-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,8 +16,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *36th Chinese Control Conference*
-publication_short: In *CCC*
+publication: In AIAA Scitech 2019 Forum
+publication_short: In AIAAScitechForum2019
 
 abstract: 本文提出了一种基于凸优化算法的多导弹协同制导方法。首先,给出以弹目距离为自变量的制导问题的多约束最优控制模型;其次,以弹目距离坐标下的剩余时间表达为基础,提出一种带有攻击时间和落角等多约束条件下的快速制导律优化算法;最后,给出一种基于"领弹-从弹"架构的协同凸优化制导方法。相关的数值仿真验证了算法的有效性。
 
