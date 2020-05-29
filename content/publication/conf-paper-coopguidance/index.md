@@ -1,5 +1,5 @@
 ---
-title: "Cooperative Guidance with Constrained v Impact Using Convex Optimization"
+title: "Cooperative Guidance with Constrained Impact Using Convex Optimization"
 authors:
 - Huan Jiang
 - Fenfen Xiong
