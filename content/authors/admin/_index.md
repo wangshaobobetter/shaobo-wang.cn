@@ -17,7 +17,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include aerospace system dynamics, computing-based guidance and control, numerical optimization.
 
 interests:
 - Flight System Dynamics
@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Aerospace Science and Technology
+  - course: PhD student in Aerospace Science and Technology
     institution: Beijing Institute of Technology
     year: 2017
   - course: MEng in Aerospace Engineering
