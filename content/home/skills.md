@@ -18,13 +18,13 @@ subtitle = ""
   icon = "autoprefixer"
   icon_pack = "fab"
   name = "Automation"
-  description = "Aerospace system analysis; flight dynamics,control and guidance; Intersection of robust control, optimal control, and its applications to aerospace engineering."
+  description = "Aerospace system analysis; Flight dynamics,control and guidance; Intersection of robust control, optimal control, and its applications to aerospace engineering."
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Optimization"
-  description = "Proficient in MATLAB programming, simulink control system design and other toolbox, able to use a variety of optimization algorithms including eCos, CVX, ipopt, snopt, gpops2, yalmip and tool library."
+  description = "Focus on mathematic programming, computational optimization; Leveraging tools from convex optimization algorithms to improve performance of real-time control system; application of optimization library including ECOS, CVX, ipopt, snopt, gpops2, yalmip."
 
 [[feature]]
   icon = "code"
