@@ -24,13 +24,13 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Optimization"
-  description = "Focus on mathematic programming, computational optimization; Leveraging tools from convex optimization algorithms to improve performance of real-time control system; application of optimization library including ECOS, CVX, ipopt, snopt, gpops2, yalmip."
+  description = "Computational methods based on advanced mathematical programming and optimization; Numerical optimization for guidance and control system; Path, trajectory optimization algorithm design and convergence analysis."
 
 [[feature]]
   icon = "code"
   icon_pack = "fas"
   name = "Programming"
-  description = "Mastering C/C++ programming language, Customization of C code of optimization algorithm e.g. interior point method; Design and development of aircraft dynamics and control simulation system based on C environment."  
+  description = "MATLAB, C/C++, Python etc., optimization library including ECOS, CVX, IPOPT YALMIP; Customized numerical optimization algorithm e.g. interior point method for high-performance application; Leveraging tools from embedded optimization to improve performance of real-time control system."  
   
 [[feature]]
   icon = "desktop"
