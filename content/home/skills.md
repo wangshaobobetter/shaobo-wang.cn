@@ -18,19 +18,19 @@ subtitle = ""
   icon = "autoprefixer"
   icon_pack = "fab"
   name = "Automation"
-  description = "Proficient in MATLAB programming, Simulink control system design and other toolbox, able to use a variety of optimization algorithms including eCos, CVX, ipopt, snopt, gpops2, yalmip and tool library."
+  description = "Aerospace system analysis; flight dynamics,control and guidance; Intersection of robust control, optimal control, and its applications to aerospace engineering."
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Computational Optimization"
-  description = "Proficient in MATLAB programming, Simulink control system design and other toolbox, able to use a variety of optimization algorithms including eCos, CVX, ipopt, snopt, gpops2, yalmip and tool library."
+  name = "Optimization"
+  description = "Proficient in MATLAB programming, simulink control system design and other toolbox, able to use a variety of optimization algorithms including eCos, CVX, ipopt, snopt, gpops2, yalmip and tool library."
 
 [[feature]]
   icon = "code"
   icon_pack = "fas"
   name = "Programming"
-  description = "Mastering C/C++ programming language, mastering the tailoring and customization of C code of convex optimization interior point algorithm, and being able to design and develop aircraft dynamics and control simulation system based on C environment."  
+  description = "Mastering C/C++ programming language, Customization of C code of optimization algorithm e.g. interior point method; Design and development of aircraft dynamics and control simulation system based on C environment."  
   
 [[feature]]
   icon = "desktop"
