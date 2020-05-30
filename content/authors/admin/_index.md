@@ -74,4 +74,4 @@ user_groups:
 
 ---
 
-Hello! I'm Huan Jiang, a Ph.D student of aerospace S&T at the Beijing Institude of Tech. My research interests include aerospace system dynamics, flight guidance control and computational optimization for trjecotry planning. I also has a discipline background in aircraft mechanical design and structural strength analysis. 
+Hello! I'm Huan Jiang, a Ph.D student of aerospace S&T at the Beijing Institude of Tech. My research interests include aerospace system dynamics, flight guidance control and computational optimization for trjecotry planning. I also has a discipline background in aircraft mechanical design and structural strength analysis. I have worked on research projects for over four years in the aerospace field and have a master's degree in this area. If you are interesting in my work, you can browse the [CV](https://hji.today/files/cv.pdf) I am updating.
