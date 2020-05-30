@@ -30,7 +30,7 @@ subtitle = ""
   icon = "code"
   icon_pack = "fas"
   name = "Programming"
-  description = "MATLAB, C/C++, Python etc., optimization library including ECOS, CVX, IPOPT YALMIP; Customized numerical optimization algorithm e.g. interior point method for high-performance application; Leveraging tools from embedded optimization to improve performance of real-time control system."  
+  description = "MATLAB, C/C++, Python etc., optimization library including ECOS, CVX, IPOPT YALMIP; Customized numerical algorithm e.g. interior point method for high-performance application; Leveraging tools from embedded optimization to improve performance of real-time control system."  
   
 [[feature]]
   icon = "desktop"

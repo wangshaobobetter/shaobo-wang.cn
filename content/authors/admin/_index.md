@@ -26,13 +26,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Aerospace
+  - course: PhD in Aerospace Science and Technology
     institution: Beijing Institute of Technology
     year: 2017
-  - course: MEng in Aerospace
+  - course: MEng in Aerospace Engineering
     institution: Beijing Institute of Technology
     year: 2015
-  - course: BSc in Aerospace
+  - course: BEng in Aircraft Manufacture Engineering
     institution: Shenyang Aerospace University
     year: 2011
 
@@ -74,4 +74,4 @@ user_groups:
 
 ---
 
-Huan Jiang is a Ph.D student of aerospace S&T at the Beijing Institude of Tech. His research interests include faerospace system dynamics, flight guidance control and computational optimization for trjecotry planning. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I'm Huan Jiang, a Ph.D student of aerospace S&T at the Beijing Institude of Tech. My research interests include aerospace system dynamics, flight guidance control and computational optimization for trjecotry planning. I also has a discipline background in aircraft mechanical design and structural strength analysis. 
