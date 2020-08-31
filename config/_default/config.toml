@@ -9,11 +9,13 @@ title = "Hji"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://hji.today/"
+# baseurl = "https://hji.today/"
+baseurl = "https://hji.zone/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "Hji.today &copy; {year} by Huan Jiang"
+# copyright = "Hji.today &copy; {year} by Huan Jiang"
+copyright = "Hji.zone &copy; {year} by Huan Jiang"
 
 ############################
 ## Advanced options below ##
