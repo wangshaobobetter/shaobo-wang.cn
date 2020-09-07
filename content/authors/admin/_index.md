@@ -63,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "h.jiang@aliyun.com"
+email: "h.jiang@bit.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -74,4 +74,4 @@ user_groups:
 
 ---
 
-Hello! I'm Huan Jiang, a Ph.D student of aerospace S&T at the Beijing Institude of Technology. My research interests include aerospace system dynamics, flight guidance control and computational optimization for trajecotry planning. I also has a discipline background in aircraft mechanical design and structural strength analysis. I have worked on research projects for over four years in the aerospace field and have a master's degree in this area. If you are interesting in my work, you can browse the [CV](https://hji.today/files/cv.pdf) I am updating.
+Hello! I'm Huan Jiang, a Ph.D student of aerospace S&T at the Beijing Institude of Technology. My research interests include aerospace system dynamics, flight guidance control and computational optimization for trajecotry planning. I also has a discipline background in aircraft mechanical design and structural strength analysis. I have worked on research projects for over four years in the aerospace field and have a master's degree in this area. If you are interesting in my work, you can browse the [CV](https://hji.zone/files/cv.pdf) I am updating.
