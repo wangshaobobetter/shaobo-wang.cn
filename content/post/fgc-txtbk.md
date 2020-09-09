@@ -2,16 +2,16 @@
 layout: post
 title: "Flight Guidance and Contorl Method and Applications"
 subtitle: "Using Vim with non-english input method"
-authors: "Jiang Huan"
+authors: Jiang Huan
 tags: 
 - textbook
 - flight guidance and control
 categories: 
-- Posts
+- Posts 
 date: "2020-09-10"
 math: false
 diagram: true
-image:
+image: 
   placement: 3
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)' 
   
