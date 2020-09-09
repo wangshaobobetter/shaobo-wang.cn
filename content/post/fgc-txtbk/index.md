@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vim 与中文输入法"
+title: "飞行器制导控制方法及其应用"
 subtitle: 'Using Vim with non-english input method'
 author: "Hux"
 header-style: text
