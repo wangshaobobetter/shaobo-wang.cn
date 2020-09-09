@@ -3,7 +3,7 @@ title: '飞行器制导控制方法及其应用'
 subtitle: 'KEEP IT DOWN BEFORE YOU FORGOT IT!'
 summary: 'Learn how to use vim'
 authors: 
-- Huan
+- Huan Jiang
 
 tags:
 - Vim
