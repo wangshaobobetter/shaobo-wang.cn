@@ -3,7 +3,7 @@ layout: post
 title: "飞行器制导控制方法以及应用 教材"
 subtitle: 
 authors:
-- Xiong Fenfen, Wang jianan, Jiang Huan
+- Huan
 tags:
 - textbook
 - flight guidance and control
@@ -16,6 +16,7 @@ image:
   placement: 3
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
+
 ## 前言
 在过去的二三十年中，我国空天技术实力不断提升，飞行器信息化和智能化程度不断提高，为适应高精度、大机动、强鲁棒等需求，飞行器的制导和控制面临着新的挑战。随着现代控制理论的不断发展、现代科学技术的不断交叉融合以及机载计算机计算能力的显著提升，如何在飞行器制导控制系统设计中应用最优控制、鲁棒控制、变结构控制等先进控制理论以及数值计算和优化算法，在满足各类约束的同时提高制导精度和抗干扰能力，已成为国内外研究的重要课题，近几年涌现出了丰硕的研究成果。
 
