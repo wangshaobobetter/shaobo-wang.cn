@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "飞行器制导控制方法以及应用"
+title: "Flight Guidance and Contorl Method and Applications"
 subtitle: 'Using Vim with non-english input method'
 authors: "Jiang Huan"
 tags:
