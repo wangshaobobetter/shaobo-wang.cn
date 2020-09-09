@@ -8,7 +8,8 @@ tags:
 - flight guidance and control
 categories: 
 - Posts 
-date: "2020-09-1"
+date: "2020-06-20T00:00:00Z"
+lastmod: "2020-08-20T00:00:00Z"
 math: false
 diagram: true
 image: 
