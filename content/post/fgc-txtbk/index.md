@@ -1,5 +1,6 @@
 ---
-title: 飞行器制导控制方法以及应用 教材
+layout: post
+title: "飞行器制导控制方法以及应用 教材"
 subtitle: 
 authors:
 - Xiong Fenfen, Wang jianan, Jiang Huan
@@ -11,7 +12,7 @@ categories:
 - Posts
 
 date: 2020-09-10
-math: true
+math: false
 diagram: true
 image:
   placement: 3
