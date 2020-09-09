@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "飞行器制导控制方法以及应用 教材"
+title: "飞行器制导控制方法以及应用"
 subtitle: 
-authors:
-- Huan
+authors: "Jiang Huan"
 tags:
 - textbook
 - flight guidance and control
