@@ -1,11 +1,12 @@
 ---
-title: "Flight Guidance and Contorl Method and Applications"
-subtitle: "Using Vim with non-english input method"
+title: 'Flight Guidance and Contorl Method and Applications'
+subtitle: 'Using Vim with non-english input method'
 authors: Jiang Huan
 
 tags: 
 - textbook
 - flight guidance and control
+
 categories: 
 - Posts 
 
