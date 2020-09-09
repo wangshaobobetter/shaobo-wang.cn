@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "飞行器制导控制方法以及应用"
-subtitle: 
+subtitle: 'Using Vim with non-english input method'
 authors: "Jiang Huan"
 tags:
 - textbook
@@ -13,7 +13,12 @@ math: false
 diagram: true
 image:
   placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)' 
+  
+---
+
+Update: New Note
+
 ---
 
 ## 前言
