@@ -1,7 +1,7 @@
 ---
 title: '飞行器制导控制方法及其应用'
 subtitle: 'Flight Guidance Control Method and Application'
-summary: '研究生教材,出版中'
+summary: '研究生教材出版中'
 authors: 
 - Fenfen Xiong, Jianan Wang, Huan Jiang
 
